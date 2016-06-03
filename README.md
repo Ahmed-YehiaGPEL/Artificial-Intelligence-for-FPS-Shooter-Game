@@ -2,7 +2,7 @@
 AI Module for FPS Game Developed using Unity3D
 
 Game Cheif Designer and Game Play programmer
-@Ahmed-YehiaGPEL
+Ahmed-YehiaGPEL(https://github.com/Ahmed-YehiaGPEL)
 
 AI Programmer
-@Adhaamehab
+Adhaamehab(https://github.com/adhaamehab)
